@@ -16,7 +16,7 @@ INSERT INTO characters (name, motto, species, author_id) VALUES ("Moghedien", "m
 
 INSERT INTO characters (name, motto, species, author_id) VALUES ("Sabriel", "motto", "Human", 2);
 INSERT INTO characters (name, motto, species, author_id) VALUES ("Touchstone", "motto", "Human", 2);
-INSERT INTO characters (name, motto, species, author_id) VALUES ("Liriel", "motto", "Human", 2,);
+INSERT INTO characters (name, motto, species, author_id) VALUES ("Liriel", "motto", "Human", 2);
 INSERT INTO characters (name, motto, species, author_id) VALUES ("Mogget", "motto", "Free magic construct(cat)", 2);
 
 INSERT INTO subgenres (name) VALUES ("Epic Fantasy");
