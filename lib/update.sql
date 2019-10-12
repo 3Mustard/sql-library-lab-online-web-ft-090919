@@ -1,1 +1,1 @@
-UPDATE Characters SET species = "Martian" WHERE species = "";
+UPDATE Characters SET species = "Martian" WHERE species = "Free magic construct(cat)";
