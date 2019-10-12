@@ -4,9 +4,9 @@ INSERT INTO Series (title, author_id, subgenre_id) VALUES ("Abhorsen Trilogy", 2
 INSERT INTO Books (title, year, series_id) VALUES ("The Eye of the World", 1990, 1);
 INSERT INTO Books (title, year, series_id) VALUES ("The Great Hunt", 1990, 1);
 INSERT INTO Books (title, year, series_id) VALUES ("The Dragon Reborn", 1991, 1);
-INSERT INTO Books (title, year, series_id) VALUES ("Harry Potter and the Sorcerer's Stone", 1997, 1);
-INSERT INTO Books (title, year, series_id) VALUES ("Harry Potter and the Chamber of Secrets", 1998, 1);
-INSERT INTO Books (title, year, series_id) VALUES ("Harry Potter and the Prisoner of Azkaban", 1999, 1);
+INSERT INTO Books (title, year, series_id) VALUES ("Sabriel", 1992, 2);
+INSERT INTO Books (title, year, series_id) VALUES ("Harry Potter and the Chamber of Secrets", 1998, 2);
+INSERT INTO Books (title, year, series_id) VALUES ("Harry Potter and the Prisoner of Azkaban", 1999, 2);
 
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Galadriel", "This is Nenya, the Ring of Adamant, and I am its keeper.", "elf", 2, 2);
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Legolas", "Do not think I won't kill you, dwarf! It would be my pleasure", "elf", 2, 2);
