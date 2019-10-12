@@ -1,5 +1,5 @@
 INSERT INTO Series (title, author_id, subgenre_id) VALUES ("The Wheel of Time", 1, 1);
-INSERT INTO Series (title, author_id, subgenre_id) VALUES ("Abhorsen Trilogy", 2, 2);
+INSERT INTO Series (title, author_id, subgenre_id) VALUES ("Old Kingdom", 2, 2);
 
 INSERT INTO Books (title, year, series_id) VALUES ("The Eye of the World", 1990, 1);
 INSERT INTO Books (title, year, series_id) VALUES ("The Great Hunt", 1990, 1);
