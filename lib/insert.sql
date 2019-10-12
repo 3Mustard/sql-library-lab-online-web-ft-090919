@@ -9,9 +9,9 @@ INSERT INTO books (title, year, series_id) VALUES ("Sabriel", 1995, 2);
 INSERT INTO books (title, year, series_id) VALUES ("Liriel", 1996, 2);
 INSERT INTO books (title, year, series_id) VALUES ("Abhorsen", 1998, 2);
 
-INSERT INTO characters (name, motto, species, author_id) VALUES ("Rand", "motto", "Human", 1, 1);
-INSERT INTO characters (name, motto, species, author_id) VALUES ("Nynaeve", "motto", "Human", 1, 1);
-INSERT INTO characters (name, motto, species, author_id) VALUES ("Egwene", "motto", "Human", 1, 1);
+INSERT INTO characters (name, motto, species, author_id) VALUES ("Rand", "motto", "Human", 1);
+INSERT INTO characters (name, motto, species, author_id) VALUES ("Nynaeve", "motto", "Human", 1);
+INSERT INTO characters (name, motto, species, author_id) VALUES ("Egwene", "motto", "Human", 1);
 INSERT INTO characters (name, motto, species, author_id) VALUES ("Moghedien", "motto", "Forsaken", 1, 1);
 
 INSERT INTO characters (name, motto, species, author_id) VALUES ("Sabriel", "motto", "Human", 2, 2);
