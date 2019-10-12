@@ -1,9 +1,9 @@
-INSERT INTO Series (title, author_id, subgenre_id) VALUES ("", 1, 1);
-INSERT INTO Series (title, author_id, subgenre_id) VALUES ("The Great Hunt", 2, 2);
+INSERT INTO Series (title, author_id, subgenre_id) VALUES ("The Wheel of Time", 1, 1);
+INSERT INTO Series (title, author_id, subgenre_id) VALUES ("Abhorsen Trilogy", 2, 2);
 
-INSERT INTO Books (title, year, series_id) VALUES ("The Dragon Reborn", 1954, 2);
-INSERT INTO Books (title, year, series_id) VALUES ("Lord of the Rings: The Two Towers", 1954, 2);
-INSERT INTO Books (title, year, series_id) VALUES ("Lord of the Rings: The Return of the King", 1955, 2);
+INSERT INTO Books (title, year, series_id) VALUES ("The Eye of the World", 1990, 2);
+INSERT INTO Books (title, year, series_id) VALUES ("The Great Hunt", 1990, 2);
+INSERT INTO Books (title, year, series_id) VALUES ("The Dragon Reborn", 1991, 2);
 INSERT INTO Books (title, year, series_id) VALUES ("Harry Potter and the Sorcerer's Stone", 1997, 1);
 INSERT INTO Books (title, year, series_id) VALUES ("Harry Potter and the Chamber of Secrets", 1998, 1);
 INSERT INTO Books (title, year, series_id) VALUES ("Harry Potter and the Prisoner of Azkaban", 1999, 1);
